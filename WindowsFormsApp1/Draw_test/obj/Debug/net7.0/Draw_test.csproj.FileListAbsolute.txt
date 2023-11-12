@@ -1,0 +1,5 @@
+C:\Users\SHAHEEN\source\repos\ASE-PROJECT\WindowsFormsApp1\Draw_test\obj\Debug\net7.0\Draw_test.csproj.AssemblyReference.cache
+C:\Users\SHAHEEN\source\repos\ASE-PROJECT\WindowsFormsApp1\Draw_test\obj\Debug\net7.0\Draw_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHAHEEN\source\repos\ASE-PROJECT\WindowsFormsApp1\Draw_test\obj\Debug\net7.0\Draw_test.AssemblyInfoInputs.cache
+C:\Users\SHAHEEN\source\repos\ASE-PROJECT\WindowsFormsApp1\Draw_test\obj\Debug\net7.0\Draw_test.AssemblyInfo.cs
+C:\Users\SHAHEEN\source\repos\ASE-PROJECT\WindowsFormsApp1\Draw_test\obj\Debug\net7.0\Draw_test.csproj.CoreCompileInputs.cache
