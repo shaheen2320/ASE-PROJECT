@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AseComponent_1</name>
+    </assembly>
+    <members>
+        <member name="T:ASE_TASK_1.Draw_Parser_class">
+            <summary>
+            Represents a class for parsing drawing-related information.
+            </summary>
+        </member>
+        <member name="F:ASE_TASK_1.Draw_Parser_class.pictureBox">
+            <summary>
+            Gets or sets the PictureBox associated with this drawing parser.
+            </summary>
+        </member>
+        <member name="F:ASE_TASK_1.Draw_Parser_class.pen_startpoint">
+            <summary>
+            Gets or sets the starting point for the drawing pen.
+            </summary>
+        </member>
+        <member name="F:ASE_TASK_1.Draw_Parser_class.cursor">
+            <summary>
+            Gets or sets the cursor used for drawing.
+            </summary>
+        </member>
+        <member name="F:ASE_TASK_1.Draw_Parser_class.draw">
+            <summary>
+            Gets or sets a value indicating whether the drawing operation is active.
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:ASE_TASK_1.Draw_Parser_class.#ctor(System.Windows.Forms.PictureBox)" -->
+        <member name="M:ASE_TASK_1.Draw_Parser_class.Drawing_Commands(System.String)">
+            <summary>
+            Executes a drawing command based on the specified command string.
+            </summary>
+            <param name="command">The drawing command to be executed.</param>
+        </member>
+        <member name="F:ASE_TASK_1.Form_1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ASE_TASK_1.Form_1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ASE_TASK_1.Form_1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:ASE_TASK_1.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:ASE_TASK_1.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:ASE_TASK_1.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:ASE_TASK_1.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

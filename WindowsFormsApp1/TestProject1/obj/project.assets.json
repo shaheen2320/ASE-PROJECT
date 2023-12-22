@@ -2328,7 +2328,7 @@
       "projectName": "TestProject1",
       "projectPath": "C:\\Users\\SHAHEEN\\source\\repos\\ASE-PROJECT\\WindowsFormsApp1\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\SHAHEEN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHAHEEN\\source\\repos\\ASE-PROJECT\\WindowsFormsApp1\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\SHAHEEN\\Source\\Repos\\ASE-PROJECT\\WindowsFormsApp1\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
