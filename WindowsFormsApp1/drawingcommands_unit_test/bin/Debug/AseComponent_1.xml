@@ -6,48 +6,97 @@
     <members>
         <member name="T:ASE_TASK_1.Draw_Parser_class">
             <summary>
-            Represents a class for parsing drawing-related information.
+            This is a class for drawing-related commands.
             </summary>
         </member>
         <member name="F:ASE_TASK_1.Draw_Parser_class.pictureBox">
             <summary>
-            Gets or sets the PictureBox associated with this drawing parser.
+            PictureBox is initiated.
             </summary>
         </member>
         <member name="F:ASE_TASK_1.Draw_Parser_class.pen_startpoint">
             <summary>
-            Gets or sets the starting point for the drawing pen.
+            starting point for the drawing pen is defined.
             </summary>
         </member>
         <member name="F:ASE_TASK_1.Draw_Parser_class.cursor">
             <summary>
-            Gets or sets the cursor used for drawing.
+            cursor is set for drawing.
             </summary>
         </member>
         <member name="F:ASE_TASK_1.Draw_Parser_class.draw">
             <summary>
-            Gets or sets a value indicating whether the drawing operation is active.
+            checks whether the drawing operation is active or not.
             </summary>
         </member>
         <!-- Badly formed XML comment ignored for member "M:ASE_TASK_1.Draw_Parser_class.#ctor(System.Windows.Forms.PictureBox)" -->
         <member name="M:ASE_TASK_1.Draw_Parser_class.Drawing_Commands(System.String)">
             <summary>
-            Executes a drawing command based on the specified command string.
+            Executes  drawing command
             </summary>
-            <param name="command">The drawing command to be executed.</param>
         </member>
-        <member name="F:ASE_TASK_1.Form_1.components">
+        <member name="T:ASE_TASK_1.Drawclass_form">
+            <summary>
+            main form class 
+            </summary>
+        </member>
+        <member name="F:ASE_TASK_1.Drawclass_form.commandParser">
+            <summary>
+            command parsers class
+            </summary>
+        </member>
+        <member name="P:ASE_TASK_1.Drawclass_form.CompleteProgramTextBox">
+            <summary>
+            TextBOX 
+            </summary>
+        </member>
+        <member name="M:ASE_TASK_1.Drawclass_form.CommandTextbox_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ASE_TASK_1.Drawclass_form.run_Click(System.Object,System.EventArgs)">
+            <summary>
+            Run button to excute command
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ASE_TASK_1.Drawclass_form.save_Click(System.Object,System.EventArgs)">
+            <summary>
+            save button
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ASE_TASK_1.Drawclass_form.pictureBox_Click(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ASE_TASK_1.Drawclass_form.textbox_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:ASE_TASK_1.Drawclass_form.components">
             <summary>
             Required designer variable.
             </summary>
         </member>
-        <member name="M:ASE_TASK_1.Form_1.Dispose(System.Boolean)">
+        <member name="M:ASE_TASK_1.Drawclass_form.Dispose(System.Boolean)">
             <summary>
             Clean up any resources being used.
             </summary>
             <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         </member>
-        <member name="M:ASE_TASK_1.Form_1.InitializeComponent">
+        <member name="M:ASE_TASK_1.Drawclass_form.InitializeComponent">
             <summary>
             Required method for Designer support - do not modify
             the contents of this method with the code editor.
